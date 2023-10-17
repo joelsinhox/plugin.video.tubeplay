@@ -1,0 +1,13 @@
+<settings>
+	<category label="30000">
+		<setting label="30001" id="playlisturl1" type="text" default="" />
+		<setting label="30002" id="playlisturl2" type="text" default="" />
+		<setting label="30003" id="playlisturl3" type="text" default="" />
+		<setting label="30004" id="playlisturl4" type="text" default="" />
+		<setting label="30005" id="playlisturl5" type="text" default="" />
+		<setting label="30006" id="playlisturl6" type="text" default="" />
+	</category>	
+	<category label="30007">
+		<setting label="30008" id="maxsearch" type="enum" values="15|30|50|70|100|150|200|300|500|700|1000" default="1" />
+	</category>		
+</settings>

@@ -1,0 +1,82 @@
+# Kodi Media Center language file
+# Addon Name: TUBE PLAY
+# Addon id: plugin.video.tubeplay
+# Addon Provider: Joel
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Playslist from Youtube"
+msgstr ""
+
+msgctxt "#30000"
+msgid "Playlist from Youtube"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Playlist 1"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Playlist 2"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Playlist 3"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Playlist 4"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Playlist 5"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Playlist 6"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Limit"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Search videos"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Playlist"
+msgstr ""
+
+msgctxt "#30012"
+msgid "User playlists"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Video unavailable"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Enter the name of the video"
+msgstr ""
+
